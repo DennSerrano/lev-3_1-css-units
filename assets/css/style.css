@@ -5,6 +5,7 @@
 }
 
 html{
+    font-size: 10px;
 
 }
 
@@ -22,10 +23,29 @@ section{
 background: rgba(0,0,0,0.5);
 padding:1em;
 border-radius: 7px;
+margin-bottom: 30px;
 }
 article{
     background: rgba(222, 218, 218, 0.5);
     padding:1em;
     border-radius: 7px;
-    height:60vh;
+    height:70vh;
+    font-size: 10px;;
+}
+h1{
+    color:white;
+    text-align:center;
+    font-size: 3rem;
+    padding:10px 0px;
+}
+
+p{
+    text-align:center;
+    font-size: 2em;
+    padding:20px 0px;
+}
+h2{
+    text-align:center;
+    font-size: 3em;
+    padding:20px 0px;
 }
